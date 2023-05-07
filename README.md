@@ -4,7 +4,7 @@
 <h2 align="left">gabrielroot's vim</h2>
 
 ### I've used [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) to start my config set.
-If you decide to clone this project, recommend to put it inside a preferred path, then create symbolic link to that, like:
+If you decide to clone this project, recommend to put it inside a preferred path, then create symbolic link for that, like:
 
 ```
 ln -s /preferred_path/vim/.vim ~/.vim
