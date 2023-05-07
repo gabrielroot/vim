@@ -4,11 +4,11 @@
 <h2 align="left">gabrielroot's vim</h2>
 
 ### I've used [vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) to start my config set.
-If you decide to clone this project, recommend to put it inside a preferred path, then create symbolic link to them, like:
+If you decide to clone this project, recommend to put it inside a preferred path, then create symbolic link to that, like:
 
 ```
-ln -s /preferred_patch/vim/.vim ~/.vim
-ln -s /preferred_patch/vim/.vimrc ~/.vimrc
+ln -s /preferred_path/vim/.vim ~/.vim
+ln -s /preferred_path/vim/.vimrc ~/.vimrc
 ```
 So you can keep all settings isolated and "commitable"
 
