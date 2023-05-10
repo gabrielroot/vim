@@ -37,7 +37,7 @@ So you can keep all settings isolated and "commitable"
 
 Just install by the common way:
 > Overriding or merging existent config
-- Move .vim/autoload/plug.vim to your $HOME path OR follow the instructins from the official repo to install the latest version: [vim-plug](https://github.com/junegunn/vim-plug)
+- Create the file ~/.vim/autoload/plug.vim OR follow the instructins from the official repo to install the latest version: [vim-plug](https://github.com/junegunn/vim-plug)
 - Move .vimrc to your $HOME path
 
 ###
